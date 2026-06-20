@@ -6,11 +6,17 @@ A data science internship project that explores, cleans, and models the Kaggle H
 
 .
 ├── analysis.ipynb          # Complete notebook with all 5 tasks
+
 ├── Housing.csv              # Dataset used (545 rows, 13 columns)
+
 ├── summary.pdf               # 1-page written summary of findings
+
 └── charts/
+
     ├── chart1_price_distribution.png
+    
     ├── chart2_correlation_heatmap.png
+    
     └── chart3_actual_vs_predicted.png
 
 📊 Dataset
